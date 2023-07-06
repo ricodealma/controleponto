@@ -2,8 +2,6 @@
 
 Um projeto prático para estudos de controle de ponto.
 
-![Imagem do Relógio](https://example.com/imagem-relogio.jpg)
-
 ## Pontos Aprendidos
 
 Durante o desenvolvimento deste projeto de controle de ponto, aprendi vários conceitos interessantes. Aqui estão alguns dos destaques:
